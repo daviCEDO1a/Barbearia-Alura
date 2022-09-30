@@ -50,8 +50,6 @@
 
 
 
-
-
 <!DOCTYPE html>
 <html>
 	<head>
@@ -98,5 +96,10 @@
 				</li>
 			</ul>
 		</main>
+
+		<footer>
+			<img src="logo-branco.png">
+			<p class="copyright">&copy; Copyright Barbearia Alura - 2019</p>
+		</footer>
 	</body>
 </html>
